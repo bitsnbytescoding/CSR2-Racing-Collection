@@ -1,4 +1,5 @@
 # CSR-Racing-2
+Project feedback, bug reports and comments are welcomed over at our discord server: https://discord.gg/XVZbNan <br>
 
 **Notes:**<br>
 ① This huge racing project is no longer my own maintenance. 😄I am very honored to meet the two partners of the team. They are **Meo Chan** and **bitsnbytescoding**. 👍Their capabilities are very good. We plan to fully update the racing library code to version 2.12.1. And optimize the file directory and file name, if you are interested in our project, please check the second description.↓↓↓<br>
@@ -21,6 +22,10 @@ This project is built for car collection, learning and communication purposes. A
 After a new version is released, cars from the previous version will be archived into the /Cars folder. <br>
 Due to the large number of car catalogs, it is recommended to use the github search function to find the car you need.<br>
 Link address: https://git.io/JfApq <br>
+****
+## Update to 2.13.0
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.13.0-Elite%20Tokin.png)
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.13.0.png)
 ****
 ## Update to 2.12.0→2.12.1→2.12.2
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.12.0-Elite%20Tokin.png)
