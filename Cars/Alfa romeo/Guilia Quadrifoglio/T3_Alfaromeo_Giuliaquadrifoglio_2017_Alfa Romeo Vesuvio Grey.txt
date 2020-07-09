@@ -1,3 +1,8 @@
+-------------------------------------------------------------
+- Join us over at discord: https://discord.gg/XVZbNan
+- GitHub CSR2 Racing Collection Project: https://git.io/JJIWV
+-------------------------------------------------------------
+
     {
       "unid": 1726,
       "crdb": "AlfaRomeo_GiuliaQuadrifoglio_2017",
